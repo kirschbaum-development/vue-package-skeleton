@@ -1,0 +1,7 @@
+node_modules
+tests/.reports
+tests/.reports/*
+.DS_Store
+.idea
+yarn-error.log
+.vscode
